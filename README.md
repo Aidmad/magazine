@@ -1,4 +1,8 @@
 # magazine
 Magazine
 
-![Homepage Screenshot](calculator.png)
+![Homepage Screenshot](magazine1.png)
+
+![Homepage Screenshot](magazine2.png)
+
+![Homepage Screenshot](magazine3.png)
